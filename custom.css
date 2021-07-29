@@ -4,3 +4,7 @@
 .modal-form{
     height: 93%;
 }
+.height{
+    height: 220px;
+    object-fit: cover;
+}
