@@ -4,7 +4,13 @@
 .modal-form{
     height: 93%;
 }
-.height{
+.carousel-image-height{
     height: 220px;
     object-fit: cover;
+}
+.button{
+    background-color: #E76F51;
+}
+.text-color{
+    color: #E76F51;
 }
